@@ -1,0 +1,8 @@
+# Rojo のビルド成果物
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+sourcemap.json
+# macOS
+.DS_Store
