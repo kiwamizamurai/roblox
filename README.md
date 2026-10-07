@@ -5,6 +5,7 @@ Roblox ゲームのソースコード置き場。ゲームごとにフォルダ�
 | フォルダ | ゲーム | 内容 |
 |---|---|---|
 | [smash-fighter](./smash-fighter) | Smash Fighter | スマブラ風の2.5D対戦ゲーム（CPU戦・最大4人） |
+| [last-light](./last-light) | Last Light | 灯台の島で30夜を生き延びる協力サバイバル（1人でも可） |
 
 ## 新しいゲームを足すとき
 1. `<game-name>/` を作り、`default.project.json` と `src/` を置く
