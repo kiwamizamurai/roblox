@@ -6,3 +6,5 @@
 sourcemap.json
 # macOS
 .DS_Store
+*.rbxl.lock
+**/build/
